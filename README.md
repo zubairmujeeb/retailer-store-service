@@ -1,5 +1,3 @@
-Certainly! Below is an updated README file with details about the controller endpoints, along with the test cases coverage.
-
 ```markdown
 # Retailer Discount Service
 
@@ -37,7 +35,7 @@ This service calculates the net payable amount for a retail website based on spe
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/retailer-discount-service.git
+git clone https://github.com/zubairmujeeb/retailer-store-service.git
 ```
 
 Build the project using Maven:
@@ -155,5 +153,3 @@ Feel free to contribute by opening issues, providing feedback, or submitting pul
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-This README now includes a "Test Cases Coverage" section that summarizes the covered scenarios in the provided test cases. Please adapt the information as per your project's actual implementation and requirements.
